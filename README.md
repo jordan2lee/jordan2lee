@@ -14,7 +14,7 @@
 * [HLA_Learner](https://github.com/jordan2lee/HLA_Learner) : Machine learning models for analyzing and predicting HLA-related sequence characteristics.
 * [molecular_similarity](https://github.com/jordan2lee/molecular_similarity) : Calculates and analyzes molecular similarity between compounds for model validation.
 
-#### 2. Cancer & Clinical Data Analysis
+#### 2. Human Health & Clinical Data Analysis
 
 * [clinical_array_gap](https://github.com/jordan2lee/clinical_array_gap) : Identifying and analyzing gaps in clinical data.
 * [corr-lung-cancer](https://github.com/jordan2lee/corr-lung-cancer) : Analysis of relationships between genomic features and clinical characteristics in lung cancer.
