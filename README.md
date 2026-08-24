@@ -1,4 +1,4 @@
-### Key Contributions - Projects soon to be public (after paper publication)
+### Key Contributions - Projects Soon to be Public (After Paper Publication)
 #### 1. Machine Learning & Predictive Modeling
 
 * [hla2vec](https://github.com/EllrottLab/hla2vec) : AI approach for learning vector representations of HLA sequences.
