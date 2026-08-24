@@ -1,6 +1,6 @@
 ### Key Contributions - Projects soon to be public (after paper publication)
-- [multimodal-download](https://github.com/jordan2lee/multimodal-download)
-- [vcf-WGS](https://github.com/jordan2lee/vcf-WGS)
+- [multimodal-download](https://github.com/jordan2lee/multimodal-download) — Tools for downloading and organizing multimodal biomedical data across genomic and clinical data types.
+- [vcf-WGS](https://github.com/jordan2lee/vcf-WGS) — Workflow and utilities for processing and analyzing whole-genome sequencing variant data in VCF format.
 - [imputation-fts](https://github.com/jordan2lee/imputation-fts): Data imputation and feature engineering pipelines to handle missing data required for fine tuned predictive models.
 - [clinical_outomes_lung](https://github.com/EllrottLab/clinical_outcomes_lung): Machine learning and statistical survival models for predicting clinical outcomes in lung cancer cohorts
 - [lung_targeted_therapy_response](jordan2lee/lung_targeted_therapy_response)
@@ -33,13 +33,12 @@
 - [dashboard-multi](https://github.com/jordan2lee/dashboard-multi) — Interactive dashboard for exploring multiple biomedical datasets and analyses.
 
 ### Additional Contributions
-- [calypr.github.io](https://github.com/calypr/calypr.github.io)
-- [liver-cholangio-subtype-tool](https://github.com/NCICCGPO/liver-cholangio-subtype-tool)
+- [calypr.github.io](https://github.com/calypr/calypr.github.io) — Website and documentation for the CALYPR biomedical data platform and project.
+- [liver-cholangio-subtype-tool](https://github.com/NCICCGPO/liver-cholangio-subtype-tool) — Tool for molecular subtyping of liver and cholangiocarcinoma tumors.
 
 ### Software Testing Support
-- [git-drs](https://github.com/calypr/git-drs)
-- [data_model](https://github.com/ACED-IDP/data_model)
-- [lathe](https://github.com/bmeg/lathe)
-- [bmeg-dictionary](https://github.com/bmeg/bmeg-dictionary)
-- [covid19_datadictionary](https://github.com/jordan2lee/covid19_datadictionary)
-- [sifter](https://github.com/bmeg/sifter)
+- [git-drs](https://github.com/calypr/git-drs) — Software for working with data repositories and integrating data resource services.
+- [data_model](https://github.com/ACED-IDP/data_model) — Data model defining standardized structures for representing clinical and biomedical research data.
+- [lathe](https://github.com/bmeg/lathe) — Tools for transforming and integrating biomedical data into standardized representations.
+- [bmeg-dictionary](https://github.com/bmeg/bmeg-dictionary) — Controlled vocabulary and data dictionary for standardizing biomedical data concepts.
+- [covid19_datadictionary](https://github.com/jordan2lee/covid19_datadictionary) — Data dictionary defining standardized fields and concepts for COVID-19 clinical and research data.
