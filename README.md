@@ -3,8 +3,8 @@
 - [vcf-WGS](https://github.com/jordan2lee/vcf-WGS) — Workflow and utilities for processing and analyzing whole-genome sequencing variant data in VCF format.
 - [imputation-fts](https://github.com/jordan2lee/imputation-fts): Data imputation and feature engineering pipelines to handle missing data required for fine tuned predictive models.
 - [clinical_outomes_lung](https://github.com/EllrottLab/clinical_outcomes_lung): Machine learning and statistical survival models for predicting clinical outcomes in lung cancer cohorts
-- [lung_targeted_therapy_response](jordan2lee/lung_targeted_therapy_response)
-- [CNV_predict_subtypes](https://github.com/jordan2lee/CNV_predict_subtypes)
+- [lung_targeted_therapy_response](jordan2lee/lung_targeted_therapy_response) — Analysis of genomic and clinical features associated with response to targeted therapies in lung cancer.
+- [CNV_predict_subtypes](https://github.com/jordan2lee/CNV_predict_subtypes) — Machine learning approach for predicting cancer subtypes using copy-number variation data.
 - [gdc-mirror](https://github.com/EllrottLab/gdc-mirror): Scalable automated data mirroring and local synchronization tooling for the NCI Genomic Data Commons (GDC) database.
 - [embedding-experiments](https://github.com/EllrottLab/embedding-experiments): Comparative experiments and analysis pipelines for evaluating representation quality, transferability, and performance of vector embeddings.
 - [public-gene-expression-ml](https://github.com/jordan2lee/public-gene-expression-ml): Machine learning workflows for public transcriptomics and gene expression analysis.
