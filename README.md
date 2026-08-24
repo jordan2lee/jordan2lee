@@ -23,6 +23,14 @@
 - [non-smoker-lung-cancer](https://github.com/jordan2lee/non-smoker-lung-cancer)
 - [alchemist-dna-job](https://github.com/ohsu-comp-bio/alchemist-dna-job)
 - [data-normalization](https://github.com/jordan2lee/data-normalization)
+- [pathology-review-priority](https://github.com/jordan2lee/pathology-review-priority)
+- [liver-cancer-drug-response](https://github.com/jordan2lee/liver-cancer-drug-response)
+- [ACED-patients-analysis](https://github.com/jordan2lee/ACED-patients-analysis)
+- [druglit_paper](https://github.com/kellrott/druglit_paper)
+- [build_graph_db_alchem](https://github.com/jordan2lee/build_graph_db_alchem)
+- [awg-portal-etl](https://github.com/kellrott/awg-portal-etl)
+- [cancer-viewer-app](https://github.com/jordan2lee/cancer-viewer-app)
+- [dashboard-multi](https://github.com/jordan2lee/dashboard-multi)
 
 ### Additional Contributions
 - [calypr.github.io](https://github.com/calypr/calypr.github.io)
@@ -33,3 +41,5 @@
 - [data_model](https://github.com/ACED-IDP/data_model)
 - [lathe](https://github.com/bmeg/lathe)
 - [bmeg-dictionary](https://github.com/bmeg/bmeg-dictionary)
+- [covid19_datadictionary](https://github.com/jordan2lee/covid19_datadictionary)
+- [sifter](https://github.com/bmeg/sifter)
