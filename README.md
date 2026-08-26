@@ -50,7 +50,7 @@
 * [clustering-viz](https://github.com/jordan2lee/clustering-viz) : Visualization tools for exploring clustering results and high-dimensional biological data.
 
 
-## Software Testing Support
+## Software Support
 
 * [git-drs](https://github.com/calypr/git-drs) : Software for working with data repositories and integrating data resource services.
 * [data_model](https://github.com/ACED-IDP/data_model) : Data model defining standardized structures for representing clinical and biomedical research data.
