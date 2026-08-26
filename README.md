@@ -1,4 +1,4 @@
-### Key Contributions - Projects Soon to be Public (After Paper Publication)
+## Key Contributions - Public Release Soon (After Paper Publication)
 #### 1. Machine Learning & Predictive Modeling
 
 * [hla2vec](https://github.com/EllrottLab/hla2vec) : AI approach for learning vector representations of HLA sequences.
@@ -13,6 +13,7 @@
 * [pathology-review-priority](https://github.com/jordan2lee/pathology-review-priority) : Machine learning approach for prioritizing pathology cases for review.
 * [HLA_Learner](https://github.com/jordan2lee/HLA_Learner) : Machine learning models for analyzing and predicting HLA-related sequence characteristics.
 * [molecular_similarity](https://github.com/jordan2lee/molecular_similarity) : Calculates and analyzes molecular similarity between compounds for model validation.
+* [liver-cholangio-subtype-tool](https://github.com/NCICCGPO/liver-cholangio-subtype-tool) : Tool for molecular subtyping of liver and cholangiocarcinoma tumors.
 
 #### 2. Human Health & Clinical Data Analysis
 
@@ -49,15 +50,11 @@
 * [clustering-viz](https://github.com/jordan2lee/clustering-viz) : Visualization tools for exploring clustering results and high-dimensional biological data.
 
 
-### Software Testing Support
+## Software Testing Support
 
 * [git-drs](https://github.com/calypr/git-drs) : Software for working with data repositories and integrating data resource services.
 * [data_model](https://github.com/ACED-IDP/data_model) : Data model defining standardized structures for representing clinical and biomedical research data.
 * [lathe](https://github.com/bmeg/lathe) : Tools for transforming and integrating biomedical data into standardized representations.
 * [bmeg-dictionary](https://github.com/bmeg/bmeg-dictionary) : Controlled vocabulary and data dictionary for standardizing biomedical data concepts.
 * [covid19_datadictionary](https://github.com/jordan2lee/covid19_datadictionary) : Data dictionary defining standardized fields and concepts for COVID-19 clinical and research data.
-
-### Additional Contributions
-
 * [calypr.github.io](https://github.com/calypr/calypr.github.io) : Website and documentation for the CALYPR biomedical data platform and project.
-* [liver-cholangio-subtype-tool](https://github.com/NCICCGPO/liver-cholangio-subtype-tool) : Tool for molecular subtyping of liver and cholangiocarcinoma tumors.
